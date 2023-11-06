@@ -4,6 +4,4 @@ function numerosOrdemDecrescente(numeros) {
     });
 }
 
-let numeros = [3, 5, 8, 9, 12];
-let numerosDecrescente = numerosOrdemDecrescente(numeros);
-console.log(numerosDecrescente);
+console.log(numerosOrdemDecrescente([3, 5, 8, 9, 12]));
